@@ -1,4 +1,4 @@
 vimrc
 =====
 
-Vim rc files
+Repo for all Vim rc files
